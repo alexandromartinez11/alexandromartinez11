@@ -1,4 +1,4 @@
-# Hi, I'm Alexandro 👋
+# Hi, I'm Alexandro 😎
 
 Cybersecurity analyst in Atlanta, GA. and I'm completing an M.S. in Cybersecurity at Georgia Tech.
 
