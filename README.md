@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Alexandro 👋
 
-<!--
-**alexandromartinez11/alexandromartinez11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity analyst in Atlanta, GA. and I'm completing an M.S. in Cybersecurity at Georgia Tech.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Hands-on web security labs with Burp Suite
+- Web recon and crawling with Photon
+- Pentest Plus Labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications so far:
+Security+ · CySA+ · CrowdStrike CCFP · AWS Cloud Practitioner · AZ-900 · SC-900 · AI-900 · Linux Essentials
+
+## Find me
+- 🌐 [alexandromartinez11.github.io](https://alexandromartinez11.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexandromartinez-cybersecurity)
